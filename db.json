@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Huawei",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 40000,
+      "comment": "its good",
+      "date": "2023-10-11T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Spinatch",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "cooking type food",
+      "date": "2023-11-09T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "smart screen",
+      "category": "electronics",
+      "freshness": "Second Hand",
+      "price": 100000,
+      "comment": "look like good condition",
+      "date": "2023-11-14T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "hp laptop",
+      "category": "electronics",
+      "freshness": "Second Hand",
+      "price": 20000,
+      "comment": "big brand",
+      "date": "2023-11-04T21:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "orange",
+      "category": "fruits",
+      "freshness": "Refurbished",
+      "price": 300,
+      "comment": "important for vitamin",
+      "date": "2023-11-02T21:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
